@@ -3,6 +3,9 @@
     "mssql1": {
       "type": "mssql.local",
       "connectionId": "SchoolContext"
+    },
+    "secrets1": {
+      "type": "secrets.user"
     }
   }
 }
